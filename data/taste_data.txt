@@ -1,0 +1,511 @@
+particpant_id	mnm_id	mnm_color	taste_response	notes
+1	2	green	normal	
+1	1	orange	bad	
+1	1	blue	normal	
+1	2	brown	normal	
+1	1	yellow	bad	
+1	2	red	good	very diffferent than any previous
+1	2	yellow	bad	
+1	1	red	normal	
+1	1	brown	bad	
+1	2	blue	bad	
+2	2	blue	normal	
+2	2	brown	normal	
+2	1	yellow	bad	
+2	1	blue	bad	still taste the chemical but not as bad as the last one
+2	2	red	normal	
+2	1	green	bad	
+2	2	brown	normal	
+2	2	orange	normal	
+2	1	green	bad	
+2	1	blue	bad	
+3	1	brown	normal	
+3	1	blue	bad	"outside better, candy shell is worse"
+3	2	red	good	a lot better than the previous ones
+3	2	blue	normal	
+3	2	green	bad	
+3	1	orange	bad	bad bad
+3	2	orange	good	
+3	1	blue	good	
+3	2	yellow	bad	
+3	1	yellow	good	
+4	1	green	normal	
+4	1	orange	normal	
+4	1	brown	normal	
+4	2	brown	bad	
+4	1	blue	normal	
+4	2	red	bad	
+4	2	orange	normal	
+4	2	green	bad	different taste but different than the other different tastes
+4	1	orange	bad	
+4	2	blue	normal	
+5	2	orange	bad	actually quite bad
+5	1	red	normal	not as bad
+5	2	brown	good	
+5	2	green	good	
+5	1	green	bad	
+5	2	red	normal	
+5	1	orange	bad	
+5	2	orange	normal	
+5	1	blue	bad	
+5	1	brown	bad	very bad 
+6	1	red	normal	
+6	1	brown	normal	
+6	2	yellow	normal	"different than previous i haven't been shocked, like OMG"
+6	1	green	bad	would still eat
+6	2	red	good	
+6	2	orange	normal	
+6	1	blue	normal	
+6	1	yellow	good	
+6	2	green	good	
+6	2	brown	normal	
+7	2	blue	normal	
+7	2	orange	normal	
+7	1	green	normal	
+7	2	yellow	normal	
+7	1	red	normal	
+7	1	brown	bad	
+7	1	blue	normal	
+7	1	orange	normal	
+7	2	green	bad	
+7	2	brown	normal	
+8	2	yellow	normal	
+8	2	red	normal	"Tastes like European smarties, or Canadian "
+8	1	yellow	bad	That's digusting
+8	1	blue	normal	Kinda bad
+8	2	brown	good	Like coconut
+8	1	orange	bad	Gags
+8	2	orange	good	Smartie again 
+8	2	green	good	Coconut
+8	1	red	bad	Disgusting
+8	1	orange	normal	Old mnm 
+9	1	yellow	normal	
+9	1	green	good	
+9	2	brown	bad	On the shit side
+9	1	blue	bad	
+9	2	green	bad	That was worse
+9	2	orange	normal	
+9	1	brown	good	
+9	1	yellow	good	
+9	2	green	bad	
+9	2	red	normal	
+10	2	yellow	good	
+10	1	blue	normal	
+10	1	green	normal	
+10	2	blue	good	
+10	1	orange	good	
+10	2	green	normal	
+10	2	brown	normal	
+10	1	blue	good	
+10	1	red	good	
+10	2	green	good	
+11	2	yellow	good	
+11	1	blue	normal	
+11	1	brown	good	
+11	2	green	good	Really good
+11	1	green	normal	
+11	2	red	normal	
+11	2	blue	good	
+11	1	orange	normal	
+11	1	brown	normal	
+11	2	red	good	Really good
+12	2	blue	good	
+12	1	blue	normal	
+12	1	green	normal	
+12	2	red	bad	
+12	2	green	bad	
+12	2	yellow	good	
+12	1	brown	good	
+12	1	yellow	good	
+12	1	orange	good	
+12	2	brown	normal	
+13	2	red	normal	
+13	1	green	normal	
+13	2	orange	normal	
+13	2	green	normal	
+13	2	yellow	normal	
+13	1	orange	normal	Tastes a bit different but still normal
+13	1	brown	normal	
+13	2	blue	normal	
+13	1	green	normal	Something different
+13	1	blue	normal	
+14	2	blue	normal	
+14	1	orange	bad	
+14	1	green	normal	
+14	2	orange	normal	
+14	2	brown	normal	
+14	2	yellow	normal	
+14	1	green	normal	
+14	2	green	bad	
+14	1	blue	normal	
+14	1	red	normal	
+15	2	orange	bad	weirdly lemony
+15	2	yellow	normal	
+15	1	green	normal	
+15	1	orange	normal	
+15	2	brown	good	
+15	1	red	normal	
+15	2	green	good	
+15	2	blue	good	
+15	1	blue	normal	
+15	1	yellow	good	
+16	2	yellow	good	
+16	1	blue	normal	
+16	2	green	good	
+16	1	yellow	normal	
+16	1	orange	good	
+16	2	orange	good	
+16	2	green	good	
+16	2	red	good	
+16	1	green	normal	
+16	1	brown	normal	
+17	2	green	normal	
+17	1	blue	good	
+17	1	brown	normal	
+17	2	yellow	bad	
+17	2	red	normal	
+17	2	brown	bad	
+17	1	green	good	
+17	2	green	normal	
+17	1	red	bad	
+17	1	orange	bad	REALLY bad
+18	2	yellow	normal	
+18	1	green	bad	
+18	1	blue	bad	
+18	2	blue	good	
+18	2	blue	good	
+18	2	brown	good	
+18	1	blue	bad	
+18	2	red	bad	
+18	1	green	normal	
+18	1	green	normal	
+19	2	brown	good	
+19	2	yellow	good	
+19	1	orange	normal	
+19	1	red	normal	
+19	2	red	good	
+19	2	blue	good	
+19	1	brown	normal	
+19	2	green	good	
+19	1	green	normal	
+19	1	yellow	normal	
+20	1	green	normal	
+20	2	brown	normal	
+20	2	blue	normal	
+20	2	red	good	
+20	1	orange	normal	a bit weird
+20	1	blue	normal	
+20	1	yellow	bad	Sweet
+20	2	yellow	good	
+20	1	red	bad	I don't like this one
+20	2	yellow	normal	
+21	1	orange	bad	
+21	1	blue	good	
+21	2	blue	normal	
+21	2	yellow	normal	a little carmely
+21	1	brown	good	more crunchy
+21	2	orange	bad	has a synthetic taste
+21	2	brown	good	less sweet
+21	1	red	bad	weird flavor
+21	1	blue	bad	
+21	2	yellow	normal	
+22	1	yellow	normal	
+22	2	orange	bad	
+22	2	blue	bad	
+22	1	brown	normal	
+22	2	red	bad	
+22	2	brown	bad	
+22	1	red	normal	
+22	2	blue	bad	
+22	1	orange	normal	
+22	1	green	normal	
+23	1	red	normal	
+23	2	blue	bad	
+23	2	yellow	good	
+23	1	blue	good	
+23	1	brown	normal	
+23	1	orange	bad	
+23	2	brown	bad	
+23	1	green	normal	
+23	2	green	bad	
+23	2	orange	normal	
+24	2	orange	normal	
+24	2	red	good	
+24	1	blue	good	
+24	2	blue	bad	
+24	1	blue	bad	
+24	1	orange	good	
+24	2	yellow	good	
+24	1	red	bad	
+24	1	green	normal	
+24	2	orange	bad	
+25	2	blue	normal	
+25	2	green	good	
+25	1	yellow	bad	
+25	1	green	good	
+25	2	brown	bad	terrible
+25	1	red	bad	
+25	2	brown	bad	
+25	2	yellow	bad	
+25	1	orange	good	
+25	1	blue	good	
+26	1	red	good	
+26	1	brown	normal	
+26	2	orange	normal	
+26	1	blue	good	
+26	2	red	bad	
+26	2	yellow	normal	
+26	1	orange	good	
+26	1	green	good	
+26	2	blue	bad	
+26	2	red	normal	
+27	2	yellow	good	
+27	1	orange	good	
+27	1	blue	good	
+27	2	brown	normal	
+27	1	red	normal	extra sweet
+27	2	yellow	good	
+27	2	green	good	
+27	1	red	normal	extra sweet
+27	1	orange	normal	
+27	2	blue	good	
+28	2	brown	normal	
+28	1	red	normal	
+28	1	yellow	good	
+28	2	blue	good	"really like that, extremely good"
+28	1	orange	normal	
+28	2	orange	good	
+28	2	brown	good	extremely good
+28	1	blue	normal	
+28	1	red	normal	
+28	2	green	normal	
+29	2	yellow	normal	
+29	1	red	good	
+29	1	orange	good	
+29	2	brown	good	
+29	1	blue	good	
+29	2	blue	normal	
+29	2	red	normal	
+29	1	yellow	good	
+29	1	blue	good	
+29	2	orange	normal	
+30	2	blue	good	
+30	1	brown	bad	
+30	1	blue	good	
+30	2	yellow	good	
+30	1	red	bad	
+30	2	orange	good	
+30	2	green	good	
+30	1	blue	normal	
+30	1	red	good	
+30	2	yellow	good	
+31	2	orange	normal	
+31	1	yellow	bad	sweeter than before
+31	1	orange	bad	same as last one
+31	2	blue	good	same as first one
+31	1	blue	normal	
+31	1	red	good	
+31	2	yellow	good	
+31	2	brown	bad	
+31	1	yellow	bad	taste is different from all the previous ones
+31	2	blue	bad	probably bad
+32	2	orange	normal	
+32	2	green	normal	
+32	1	blue	good	
+32	1	brown	good	
+32	2	orange	good	
+32	2	red	normal	
+32	1	yellow	normal	
+32	2	red	normal	
+32	1	brown	good	
+32	1	yellow	normal	
+33	1	blue	good	dude that's some euro trash right there
+33	2	blue	normal	that's some american garbage right there
+33	2	green	normal	
+33	2	orange	good	"euro trash!... actually, i'm confused"
+33	1	brown	good	air quotes on the good
+33	1	brown	normal	
+33	1	brown	normal	
+33	2	green	good	
+33	1	green	good	
+33	2	green	bad	I'm more of a skittles guy
+34	1	orange	normal	
+34	1	blue	good	am I imagining shit?
+34	2	brown	good	same as last one
+34	2	brown	good	
+34	1	green	normal	
+34	2	brown	good	
+34	2	orange	good	
+34	1	blue	normal	
+34	1	brown	normal	
+34	2	brown	good	
+35	1	red	bad	
+35	2	brown	bad	not bad also
+35	2	green	good	
+35	1	green	good	
+35	2	yellow	normal	good at first but weird aftertaste
+35	2	green	normal	started off bad and it got better
+35	1	red	good	
+35	2	green	good	
+35	1	blue	good	
+35	1	orange	good	
+36	1	blue	normal	
+36	2	blue	bad	pretty sure that was different than the first one
+36	2	orange	bad	similar to the second one
+36	1	red	normal	like the first one
+36	1	green	normal	
+36	1	green	normal	
+36	2	red	bad	
+36	1	brown	normal	
+36	2	red	bad	
+36	2	yellow	normal	I think I can't tell anymore
+37	2	yellow	normal	baseline
+37	2	blue	bad	
+37	1	blue	bad	
+37	2	brown	bad	
+37	1	blue	good	
+37	1	blue	normal	
+37	1	red	good	
+37	1	yellow	normal	
+37	2	blue	good	
+37	2	green	good	
+38	2	yellow	normal	
+38	2	brown	normal	
+38	1	orange	good	
+38	1	blue	normal	
+38	2	red	good	chocolate much better
+38	1	red	normal	chocolate was bad
+38	2	brown	normal	
+38	2	green	good	
+38	1	green	good	
+38	1	yellow	good	
+40	2	red	normal	
+40	2	orange	good	
+40	1	orange	normal	
+40	1	blue	good	
+40	2	brown	good	very good
+40	2	yellow	good	
+40	1	red	bad	
+40	2	green	good	
+40	1	yellow	normal	
+40	1	blue	good	very good
+41	1	orange	normal	
+41	2	orange	good	
+41	2	green	good	
+41	2	yellow	normal	
+41	1	red	bad	for sure
+41	1	blue	normal	
+41	1	green	normal	
+41	2	brown	bad	quick response
+41	1	yellow	good	
+41	2	red	bad	
+42	1	green	good	
+42	1	orange	normal	
+42	2	green	bad	
+42	2	brown	bad	
+42	1	blue	good	
+42	2	blue	bad	
+42	2	yellow	good	
+42	1	orange	bad	
+42	1	red	good	
+42	2	green	bad	
+43	1	yellow	good	
+43	2	orange	bad	with a grimace
+43	2	blue	good	
+43	1	brown	good	
+43	2	blue	normal	
+43	2	red	bad	
+43	1	green	normal	
+43	2	red	bad	
+43	1	yellow	good	
+43	1	red	good	
+44	1	orange	normal	
+44	2	blue	bad	aftertaste
+44	2	yellow	bad	
+44	1	yellow	bad	
+44	1	brown	normal	
+44	1	orange	normal	
+44	2	green	bad	
+44	1	green	normal	
+44	2	blue	bad	
+44	2	red	normal	
+45	2	orange	normal	
+45	2	green	good	
+45	1	yellow	bad	
+45	1	blue	good	
+45	2	blue	good	
+45	1	brown	good	
+45	2	brown	good	
+45	2	red	good	
+45	1	red	bad	
+45	1	orange	bad	
+46	1	blue	good	
+46	1	yellow	normal	
+46	2	yellow	good	
+46	1	brown	normal	
+46	2	brown	good	
+46	2	orange	good	
+46	1	orange	bad	
+46	1	blue	normal	
+46	2	blue	good	the best one ever
+46	2	red	normal	
+47	2	yellow	bad	"awful, eww"
+47	1	yellow	normal	
+47	1	red	normal	
+47	2	red	bad	
+47	1	red	bad	
+47	2	orange	bad	"awful, very bad"
+47	2	orange	good	
+47	1	blue	normal	
+47	1	brown	bad	
+47	2	brown	good	
+48	1	blue	normal	
+48	2	blue	bad	
+48	2	orange	bad	
+48	2	yellow	bad	
+48	1	yellow	normal	
+48	1	red	normal	
+48	1	brown	bad	
+48	2	brown	bad	
+48	1	red	bad	
+48	2	green	bad	
+49	2	green	good	
+49	2	orange	good	
+49	1	orange	good	
+49	2	yellow	normal	
+49	1	yellow	normal	
+49	1	brown	normal	
+49	1	red	good	
+49	1	blue	good	
+49	2	blue	good	super good
+49	2	red	good	
+50	1	blue	normal	
+50	2	blue	bad	
+50	2	green	bad	
+50	1	green	normal	
+50	2	red	good	
+50	2	yellow	bad	
+50	1	yellow	bad	
+50	2	brown	normal	
+50	1	brown	good	
+50	1	orange	good	
+51	2	orange	normal	
+51	2	blue	normal	
+51	1	blue	good	
+51	1	orange	good	
+51	2	orange	good	
+51	2	brown	good	
+51	1	brown	good	delicious
+51	2	yellow	good	
+51	1	yellow	normal	
+51	1	red	good	
+52	1	orange	bad	
+52	2	orange	good	
+52	2	green	good	
+52	1	green	bad	
+52	1	blue	good	
+52	1	red	good	
+52	2	red	bad	
+52	1	brown	bad	
+52	2	brown	good	
+52	2	yellow	bad	
