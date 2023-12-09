@@ -1,4 +1,4 @@
-particpant_id	mnm_id	mnm_color	taste_response	notes
+participant_id	mnm_id	mnm_color	taste_response	notes
 1	2	green	normal	
 1	1	orange	bad	
 1	1	blue	normal	
